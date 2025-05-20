@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+faiss-cpu
+libmagic
+python-magic
+langchain_groq
+sentence-transformers
+
