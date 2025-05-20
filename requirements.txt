@@ -5,6 +5,6 @@ unstructured
 faiss-cpu
 libmagic
 python-magic
-langchain_groq
+langchain-groq
 sentence-transformers
-
+langchain-community
