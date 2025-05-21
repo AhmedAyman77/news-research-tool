@@ -1,3 +1,6 @@
 .env
 faiss_store_huggingface.pkl
 notebooks/wiki_index.pkl
+answer.png
+arabic-summary.png
+summary.png
